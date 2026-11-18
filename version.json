@@ -1,5 +1,5 @@
 {
-  "version": "5.23",
-  "sha256": "4aee30b017834cb42b5f2acc3084abb53719a9f88c5ed375deea660160254c10",
-  "notes": "New: person avatar shown in the top-left corner when no Google photo is available"
+  "version": "5.24",
+  "sha256": "e0b49f1d557261fd5a0a2e6cdf12c4528327a482354eb79a22485468c0f81a65",
+  "notes": "New person avatar + clearer update messages with manual download option"
 }
