@@ -1,5 +1,5 @@
 {
-  "version": "5.22",
-  "sha256": "203f16755b1aced694117b2bd04e27b47185712ad3e5a40447e839f97766253a",
-  "notes": "Fix: parcel missing when same tracking number repeats in a card"
+  "version": "5.23",
+  "sha256": "4aee30b017834cb42b5f2acc3084abb53719a9f88c5ed375deea660160254c10",
+  "notes": "New: person avatar shown in the top-left corner when no Google photo is available"
 }
