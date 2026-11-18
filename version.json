@@ -1,0 +1,5 @@
+{
+  "version": "5.22",
+  "sha256": "203f16755b1aced694117b2bd04e27b47185712ad3e5a40447e839f97766253a",
+  "notes": "Fix: parcel missing when same tracking number repeats in a card"
+}
