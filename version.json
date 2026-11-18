@@ -1,5 +1,5 @@
 {
-  "version": "5.17",
-  "sha256": "fb09247acb7553aeae31dad18ba63320bd6ccba907fd13265ca5595a5bedea12",
-  "notes": "New Trackly logo added to the extension icon."
+  "version": "5.19",
+  "sha256": "3b4f5ffcb5136012f089cd2bd9ca379fce71b712add3f70573f8c5f17d89599d",
+  "notes": "Email Writer removed"
 }
